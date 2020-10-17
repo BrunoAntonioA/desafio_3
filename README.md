@@ -4,10 +4,14 @@ A continuación se describe la ejecución del programa y se compartirá el link 
 
 # Ejecución
   Para ejecutar el programa tenemos que tener instalado python3. Además, debemos instalar las siguientes librerías:
+  
     - pandas
+    
     - sklearn
+    
     - functools
     
+  Posterior a esta instalación debemos ejecutar el archivo main.py y veremos la ejecución del programa.
 
 # Link video
 
